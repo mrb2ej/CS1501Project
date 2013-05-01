@@ -11,27 +11,21 @@ Matt Frazier (maf7sm)
 
 Project Functionality:
 ======================
-The intended functionality of this project is to provide
-a friendly greeting to the set of users in this world
-who are currently reading the monitor displaying the 
-execution output. 
+The program takes in the file name of an intercal program 
+and calculates if the program contains the proper number of 
+"pleases" (between 1/4 and 1/3 the number of lines). 
 
-When the "main" module is called, the greeting process 
-is initiated. 
+The user is then notified as to how many more/fewer pleases
+are needed for the intercal program to compile correctly. 
 
-The program should terminate after the greeting has been 
-issued.
-
-Example Output:
-===============
-Ok, modules loaded: Main
-*Main> main
-Hello, world!
+Attached is the program, along with three text files that
+can be used to test the program.
 
 
 Project Grading Rubric:
 =======================
 +10pts if it compiles
 +10pts if it does what you intended
++10pts if it does something cool
 +10pts if you opensource the code online (GitHub, etc)
 
